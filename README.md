@@ -1,1 +1,1 @@
-# Java-Applet-projects
+# Java Applet projects
